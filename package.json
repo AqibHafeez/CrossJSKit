@@ -1,0 +1,22 @@
+{
+  "name": "crossjskit",
+  "version": "0.0.1",
+  "description": "a helper lib that contains utility functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "crypto-js": "^3.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AqibHafeez/CrossJSKit.git"
+  },
+  "author": "Aqib Hafeez <aqibhafeez47@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AqibHafeez/CrossJSKit/issues"
+  },
+  "homepage": "https://github.com/AqibHafeez/CrossJSKit#readme"
+}
